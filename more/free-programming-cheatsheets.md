@@ -18,7 +18,7 @@
 * [MongoDB](#mongodb)
 * [Perl](#Perl)
 * [Python](#python)
-* [R](#R)
+* [R](#r)
 * [Ruby](#ruby)
 * [SQL](#sql)
 
