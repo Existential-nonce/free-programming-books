@@ -1616,6 +1616,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Pro HTML5 Programming](https://web.archive.org/web/20181215200026/http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html) - Jen Simmons, Chris O'Connor, Dylan Wooters, Peter Lubbers
 * [Resilient Web Design](https://resilientwebdesign.com/#Resilientweb%20design) - Jeremy Keith
 * [Scalable and Modular Architecture for CSS](https://web.archive.org/web/20191116073929/http://smacss.com/) - Jonathan Snook
+* [The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) - Britney Muller & moz.com staff (HTML)
 * [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 * [W3.CSS Succinctly](https://www.syncfusion.com/ebooks/w3_css_succinctly) - Joseph D. Booth
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
